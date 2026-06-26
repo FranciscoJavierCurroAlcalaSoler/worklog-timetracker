@@ -26,7 +26,7 @@ That early-warning correction is the whole value. The log is the raw material; t
 
 ## Files
 
-- `worklog2csv.ps1` — the parser and category roll-up.
+- `worklog-rollup.ps1` — the parser and category roll-up.
 - `screenshot-script.png` — the script.
 - `screenshot-rollup.png` — sample roll-up output (daily totals by responsibility code).
 
